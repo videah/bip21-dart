@@ -1,5 +1,8 @@
 # bip-21
 
+[![build status](https://secure.travis-ci.org/videah/bip21-dart.png)](http://travis-ci.org/videah/bip21-dart)
+[![pub package](https://img.shields.io/pub/v/bip21.svg)](https://pub.dartlang.org/packages/bip21)
+
 Dart implementation of the [BIP-21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) Bitcoin URI scheme.
 
 Based on the [bitcoinjs](https://github.com/bitcoinjs/bip21) implementation.
