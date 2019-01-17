@@ -1,0 +1,14 @@
+name: bip21
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+author: videah <videah@selfish.systems>
+repository: https://github.com/videah/bip21-dart
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+#dependencies:
+#  path: ^1.4.1
+
+dev_dependencies:
+  test: ^1.0.0
